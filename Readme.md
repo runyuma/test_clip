@@ -12,7 +12,7 @@ Initially, I believed that CLIP was a caption prediction model, but upon further
 
 there is a work for CLIP prefix Image Captioning, which will aotomatically give a text describtion for an image encoded by CLIP. For this test, the image is from the observation in CLIPort.I upload them in google Colab and predict the caption with pretrained models. However, the caption is nearly irrelevant to the image information.
 
-s
+<img src="img/ClipCap1.png" style="zoom:70%"><img src="img/ClipCap2.png" style="zoom:70%"><img src="img/ClipCap3.png" style="zoom:70%">
 
 Therefore it is not reasonable use those predicted caption to set reward.
 
